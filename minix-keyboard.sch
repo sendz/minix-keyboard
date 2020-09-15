@@ -2425,35 +2425,35 @@ Text GLabel 3300 1600 2    50   Input ~ 0
 COL5
 Text GLabel 3300 3300 2    50   Input ~ 0
 COL3
-Text GLabel 7000 5700 2    50   Input ~ 0
+Text GLabel 7000 6300 2    50   Input ~ 0
 COL6
-Text GLabel 7000 5800 2    50   Input ~ 0
+Text GLabel 7000 6200 2    50   Input ~ 0
 COL7
-Text GLabel 7000 5900 2    50   Input ~ 0
+Text GLabel 7000 6100 2    50   Input ~ 0
 COL8
 Text GLabel 7000 6000 2    50   Input ~ 0
 COL9
-Text GLabel 7000 6100 2    50   Input ~ 0
+Text GLabel 7000 5900 2    50   Input ~ 0
 COL10
-Text GLabel 7000 6200 2    50   Input ~ 0
+Text GLabel 7000 5800 2    50   Input ~ 0
 COL11
-Text GLabel 7000 6300 2    50   Input ~ 0
+Text GLabel 7000 5700 2    50   Input ~ 0
 COL12
-Text GLabel 3300 3800 2    50   Input ~ 0
+Text GLabel 3300 1700 2    50   Input ~ 0
 COL6
-Text GLabel 3300 3900 2    50   Input ~ 0
+Text GLabel 3550 1300 2    50   Input ~ 0
 COL7
-Text GLabel 3300 4000 2    50   Input ~ 0
+Text GLabel 3550 1500 2    50   Input ~ 0
 COL8
 Text GLabel 3600 1100 2    50   Input ~ 0
 COL9
 Wire Wire Line
 	3300 1200 3450 1200
-Text GLabel 3550 1500 2    50   Input ~ 0
+Text GLabel 3300 4000 2    50   Input ~ 0
 COL10
-Text GLabel 3550 1300 2    50   Input ~ 0
+Text GLabel 3300 3900 2    50   Input ~ 0
 COL11
-Text GLabel 3300 1700 2    50   Input ~ 0
+Text GLabel 3300 3800 2    50   Input ~ 0
 COL12
 Wire Wire Line
 	3600 1400 3550 1400
